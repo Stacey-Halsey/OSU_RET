@@ -12,6 +12,10 @@ project:
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
 
 
+## How it works
+
+This project demonstrates how basic logic gates (AND, NAND, XOR, XNOR) combine input bits to produce different output signals. It is a simple example for exploring digital logic design and understanding Tiny Tapeout workflows.
+
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
