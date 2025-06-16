@@ -7,6 +7,7 @@ project:
   description: "Circuit implements AND, NAND, XOR, XNOR gates."
   language: "Wokwi"
   clock_hz: 10000
+  # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"
 
 
